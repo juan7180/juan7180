@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juan7180
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning C++ and C
+- 🌱 I finished learning C++ and C!
 - 💞️ I’m looking to collaborate on creating a tiny version of Windows 10
 
 <!---
