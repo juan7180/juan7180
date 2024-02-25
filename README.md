@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @juan7180
 - 👀 I’m interested in Building HTML Sites!
 - 🌱 I finished learning HTML!
-- 💞️ I’m looking to collaborate on creating a tiny version of Windows 10
 
 <!---
 juan7180/juan7180 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
